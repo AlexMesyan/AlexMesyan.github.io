@@ -1,0 +1,19 @@
+body {
+    display: grid;
+    justify-content: center;
+}
+#image_white {
+    height: 500px;
+    width: 500px;
+    position: relative;
+    opacity: 100;
+}
+#image_black {
+    height: 500px;
+    width: 500px;
+    top: -500px;
+    position: relative;
+    opacity: 0;
+}
+
+ 
